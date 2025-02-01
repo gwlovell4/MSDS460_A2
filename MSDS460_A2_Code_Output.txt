@@ -1,0 +1,127 @@
+Best Case Critical Path time:
+DescProd starts at time 0
+DevpMktingStrat starts at time 0
+DevProdPro starts at time 0
+WriPro ends at 108.0 hours in duration
+Minimum cost is: 108.0 * the hourly rate of $31.51.
+Minimum cost is: $3403.08.
+
+Best case Solution variable values:
+end_Coding = 40.0
+end_DescProd = 8.0
+end_DesignBro = 10.0
+end_DevImpPlan = 92.0
+end_DevPriPlan = 100.0
+end_DevProdPro = 0.0
+end_DevpMktingStrat = 8.0
+end_PackDel = 76.0
+end_ReqAnal = 12.0
+end_SoftDes = 22.0
+end_SurvMark = 26.0
+end_SysDes = 24.0
+end_SysTest = 72.0
+end_UnitTest = 56.0
+end_WriDoc = 46.0
+end_WriPro = 108.0
+start_Coding = 24.0
+start_DescProd = 0.0
+start_DesignBro = 8.0
+start_DevImpPlan = 76.0
+start_DevPriPlan = 76.0
+start_DevProdPro = 0.0
+start_DevpMktingStrat = 0.0
+start_PackDel = 72.0
+start_ReqAnal = 8.0
+start_SoftDes = 12.0
+start_SurvMark = 10.0
+start_SysDes = 12.0
+start_SysTest = 56.0
+start_UnitTest = 40.0
+start_WriDoc = 40.0
+start_WriPro = 100.0
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+Expected Case Critical Path time:
+DescProd starts at time 0
+DevpMktingStrat starts at time 0
+DevProdPro starts at time 0
+WriPro ends at 210.0 hours in duration
+Minimum cost is: 210.0 * the hourly rate of $31.51.
+Minimum cost is: $6617.1.
+
+Expected case solution variable values:
+end_Coding = 70.0
+end_DescProd = 12.0
+end_DesignBro = 18.0
+end_DevImpPlan = 166.0
+end_DevPriPlan = 178.0
+end_DevProdPro = 0.0
+end_DevpMktingStrat = 16.0
+end_PackDel = 146.0
+end_ReqAnal = 18.0
+end_SoftDes = 38.0
+end_SurvMark = 38.0
+end_SysDes = 38.0
+end_SysTest = 134.0
+end_UnitTest = 102.0
+end_WriDoc = 78.0
+end_WriPro = 210.0
+start_Coding = 38.0
+start_DescProd = 0.0
+start_DesignBro = 12.0
+start_DevImpPlan = 146.0
+start_DevPriPlan = 146.0
+start_DevProdPro = 0.0
+start_DevpMktingStrat = 0.0
+start_PackDel = 134.0
+start_ReqAnal = 12.0
+start_SoftDes = 18.0
+start_SurvMark = 18.0
+start_SysDes = 18.0
+start_SysTest = 102.0
+start_UnitTest = 70.0
+start_WriDoc = 70.0
+start_WriPro = 178.0
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+Worst Case Critical Path time:
+DescProd starts at time 0
+DevpMktingStrat starts at time 0
+DevProdPro starts at time 0
+WriPro ends at 314.0 hours in duration
+Minimum cost is: 314.0 * the hourly rate of $31.51.
+Minimum cost is: $9894.14.
+
+Solution variable values:
+end_Coding = 102.0
+end_DescProd = 16.0
+end_DesignBro = 26.0
+end_DevImpPlan = 242.0
+end_DevPriPlan = 258.0
+end_DevProdPro = 0.0
+end_DevpMktingStrat = 24.0
+end_PackDel = 218.0
+end_ReqAnal = 24.0
+end_SoftDes = 54.0
+end_SurvMark = 50.0
+end_SysDes = 48.0
+end_SysTest = 198.0
+end_UnitTest = 150.0
+end_WriDoc = 112.0
+end_WriPro = 314.0
+start_Coding = 54.0
+start_DescProd = 0.0
+start_DesignBro = 16.0
+start_DevImpPlan = 218.0
+start_DevPriPlan = 218.0
+start_DevProdPro = 0.0
+start_DevpMktingStrat = 0.0
+start_PackDel = 198.0
+start_ReqAnal = 16.0
+start_SoftDes = 24.0
+start_SurvMark = 26.0
+start_SysDes = 24.0
+start_SysTest = 150.0
+start_UnitTest = 102.0
+start_WriDoc = 102.0
+start_WriPro = 258.0
